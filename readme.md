@@ -12,6 +12,8 @@ Base requirements:
 
 * PHP >=7.1
 * MariaDB >=10.2
+* Composer >=1.7.2
+* Redis >=3.2.4
 
 Install dependencies:
 
